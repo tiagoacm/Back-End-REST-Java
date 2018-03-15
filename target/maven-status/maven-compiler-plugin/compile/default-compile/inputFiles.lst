@@ -1,0 +1,9 @@
+/home/tiago/Documents/workspaceSpringTool/apiloja/src/main/java/br/com/loja/validation/ValidationErrorBuilder.java
+/home/tiago/Documents/workspaceSpringTool/apiloja/src/main/java/br/com/loja/model/Cliente.java
+/home/tiago/Documents/workspaceSpringTool/apiloja/src/main/java/br/com/loja/filter/TokenFilter.java
+/home/tiago/Documents/workspaceSpringTool/apiloja/src/main/java/br/com/loja/controller/AcessoController.java
+/home/tiago/Documents/workspaceSpringTool/apiloja/src/main/java/br/com/loja/repository/ClienteRepository.java
+/home/tiago/Documents/workspaceSpringTool/apiloja/src/main/java/br/com/loja/controller/ClienteController.java
+/home/tiago/Documents/workspaceSpringTool/apiloja/src/main/java/br/com/loja/ApilojaApplication.java
+/home/tiago/Documents/workspaceSpringTool/apiloja/src/main/java/br/com/loja/model/ValidationError.java
+/home/tiago/Documents/workspaceSpringTool/apiloja/src/main/java/br/com/loja/service/ClienteService.java
